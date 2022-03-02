@@ -19,6 +19,6 @@
   },
   "dependencies": {
     "sirv-cli": "^2.0.0",
-    "tracking": "^1.0.0"
+    "@techstark/opencv-js": "^1.0.0"
   }
 }
