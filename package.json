@@ -19,5 +19,6 @@
   },
   "dependencies": {
     "sirv-cli": "^2.0.0"
+    "tracking": "^1.0.0"
   }
 }
